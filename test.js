@@ -11,7 +11,6 @@ var isValid = function(s) {
 };
 
 console.log(isValid("()[]"))
-// console.log('12'.length)
 
 for(var val of '124') {
     console.log(val, 'val')
